@@ -1,6 +1,7 @@
-# GitHub Enterprise Demo
+# GitHub and Git Demo
 
-* Installation
+* Repos
+* Commits
 * Pull Requests
-* Fun
+* Your Questions
 
